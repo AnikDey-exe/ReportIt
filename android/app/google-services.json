@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996030129278",
+    "project_id": "reportit-7183c",
+    "storage_bucket": "reportit-7183c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996030129278:android:dd79ad9d9268dfcbd1e42f",
+        "android_client_info": {
+          "package_name": "com.reportit3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996030129278-7rhvqiiijhakuhj31osc51aal4kljdin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-x1gxVJx6qmF85wkIyYeE9otvG4BlOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996030129278-7rhvqiiijhakuhj31osc51aal4kljdin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
